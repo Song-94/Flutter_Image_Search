@@ -108,3 +108,12 @@
 - context.select<T, R>(R cb(T value)), which allows a widget to listen to only a small part of T
 10. call method
 - call method 는 생략이 가능함. 그래서 함수명을 call 로 하면 생략이 가능함.
+# Provider
+1. Provider, ChangeNotifierProvider?
+- https://velog.io/@kjha2142/Flutter-Provider-Essential-1
+2. MultiProvider?
+- https://velog.io/@kjha2142/Flutter-Provider-Essential-2
+3. ProxyProvider? 
+- https://velog.io/@kjha2142/Flutter-Provider-Essential-3
+4. Provider, SetState errors
+- https://velog.io/@kjha2142/Flutter-Provider-Essential-4
